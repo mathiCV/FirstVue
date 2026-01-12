@@ -1,10 +1,10 @@
 //ctrl + c : Detener
 
-//Para ejecutar y visualizar en navegador; Solo es entorno de desarrollo
+//Para ejecutar y visualizar en navegador; Solo es entorno de desarrollo: 
 npm run dev
 
-// Para distro
+// Para distro: 
 npm run build
 
-//Previsualizar antes de subir distro
+//Previsualizar antes de subir distro: 
 npm run preview
