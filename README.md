@@ -1,3 +1,7 @@
+CREANDO un proyecto con vue
+
+npm create vue@lastest
+
 //ctrl + c : Detener
 
 //Para ejecutar y visualizar en navegador; Solo es entorno de desarrollo: 
